@@ -1,0 +1,9 @@
+{
+  "name": "socket-io-node",
+  "version": "0.0.1",
+  "description": "Skeleton Socket.io Node.JS App",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.1"
+  }
+}
