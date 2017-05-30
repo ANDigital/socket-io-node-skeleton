@@ -22,13 +22,13 @@ $ node index.js
 
 ## Things to do...
 
-###Add the following routes
+### Add the following routes
 
 - [GET] /messages - will render a JSON blob containing all of the messages created
 - [GET] /online - will display a JSON blob showing the current number of online users
 - [POST] /message - will take a JSON blob with some text, and add a new message to the chat with this text
 
-###Add new functionality
+### Add new functionality
 - Users should have a Username, which should be displayed next to messages.
 - Messages should show a timestamp
 - Show '{username} is typing' message when a user is typing a message
